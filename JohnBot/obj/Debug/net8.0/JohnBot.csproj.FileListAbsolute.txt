@@ -1,0 +1,27 @@
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\JohnBot.csproj.AssemblyReference.cache
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\JohnBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\JohnBot.AssemblyInfoInputs.cache
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\JohnBot.AssemblyInfo.cs
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\JohnBot.csproj.CoreCompileInputs.cache
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\JohnBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\henge\OneDrive\Documents\Visual Studio Builds\John Bot\Debug\net8.0\appsettings.Development.json
+C:\Users\henge\OneDrive\Documents\Visual Studio Builds\John Bot\Debug\net8.0\appsettings.json
+C:\Users\henge\OneDrive\Documents\Visual Studio Builds\John Bot\Debug\net8.0\JohnBot.exe
+C:\Users\henge\OneDrive\Documents\Visual Studio Builds\John Bot\Debug\net8.0\JohnBot.deps.json
+C:\Users\henge\OneDrive\Documents\Visual Studio Builds\John Bot\Debug\net8.0\JohnBot.runtimeconfig.json
+C:\Users\henge\OneDrive\Documents\Visual Studio Builds\John Bot\Debug\net8.0\JohnBot.dll
+C:\Users\henge\OneDrive\Documents\Visual Studio Builds\John Bot\Debug\net8.0\JohnBot.pdb
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\staticwebassets\msbuild.JohnBot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\staticwebassets\msbuild.build.JohnBot.props
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JohnBot.props
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JohnBot.props
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\scopedcss\bundle\JohnBot.styles.css
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\JohnBot.csproj.Up2Date
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\JohnBot.dll
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\refint\JohnBot.dll
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\JohnBot.pdb
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\JohnBot.genruntimeconfig.cache
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Debug\net8.0\ref\JohnBot.dll

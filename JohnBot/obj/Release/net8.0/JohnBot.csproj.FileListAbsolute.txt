@@ -1,0 +1,6 @@
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Release\net8.0\JohnBot.csproj.AssemblyReference.cache
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Release\net8.0\JohnBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Release\net8.0\JohnBot.AssemblyInfoInputs.cache
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Release\net8.0\JohnBot.AssemblyInfo.cs
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Release\net8.0\JohnBot.csproj.CoreCompileInputs.cache
+C:\Users\henge\source\repos\JohnBot\JohnBot\obj\Release\net8.0\JohnBot.MvcApplicationPartsAssemblyInfo.cache

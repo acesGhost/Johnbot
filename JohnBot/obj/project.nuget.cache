@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "+yzuoKfwkr2z7hUEychU7xXbzXTGTTik4O7/z4o/PX/qse6MRERyWVJzOuNUDjqam2vdxtHqzLtDxD1TaIbQDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\henge\\source\\repos\\JohnBot\\JohnBot\\JohnBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henge\\.nuget\\packages\\discord.net\\3.13.1\\discord.net.3.13.1.nupkg.sha512",
+    "C:\\Users\\henge\\.nuget\\packages\\discord.net.commands\\3.13.1\\discord.net.commands.3.13.1.nupkg.sha512",
+    "C:\\Users\\henge\\.nuget\\packages\\discord.net.core\\3.13.1\\discord.net.core.3.13.1.nupkg.sha512",
+    "C:\\Users\\henge\\.nuget\\packages\\discord.net.interactions\\3.13.1\\discord.net.interactions.3.13.1.nupkg.sha512",
+    "C:\\Users\\henge\\.nuget\\packages\\discord.net.rest\\3.13.1\\discord.net.rest.3.13.1.nupkg.sha512",
+    "C:\\Users\\henge\\.nuget\\packages\\discord.net.webhook\\3.13.1\\discord.net.webhook.3.13.1.nupkg.sha512",
+    "C:\\Users\\henge\\.nuget\\packages\\discord.net.websocket\\3.13.1\\discord.net.websocket.3.13.1.nupkg.sha512",
+    "C:\\Users\\henge\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\henge\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\henge\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\henge\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\henge\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\henge\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\henge\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
