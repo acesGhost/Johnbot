@@ -44,7 +44,7 @@ class Program
 
         await RegisterCommandsAsync();
 
-        await _client.LoginAsync(TokenType.Bot, "MTIwNzU1NTIzMTg5MDY3MzcxNQ.GXF9Zj.YtmhLXwW93r3d95X98lH2MMu8IBDIcfumvi0oQ");
+        await _client.LoginAsync(TokenType.Bot, "BOT TOKEN HIDDEN");
         await _client.StartAsync();
 
         await _client.SetGameAsync("Fortnite"); // Set the bot's activity to "Playing Fortnite"
